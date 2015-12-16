@@ -1,0 +1,2 @@
+socket read 阻塞
+fcntl(nfp, F_SETFL, O_NONBLOCK);
