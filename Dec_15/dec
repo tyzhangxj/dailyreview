@@ -12,3 +12,5 @@ developing WX for android
 开始android 版WX的开发
 socket read 阻塞
 fcntl(nfp, F_SETFL, O_NONBLOCK);
+支付宝谈话
+1221
