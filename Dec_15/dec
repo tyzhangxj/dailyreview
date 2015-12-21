@@ -14,3 +14,4 @@ socket read 阻塞
 fcntl(nfp, F_SETFL, O_NONBLOCK);
 支付宝谈话
 1221
+test
